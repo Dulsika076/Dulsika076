@@ -45,6 +45,7 @@
 - 🔹 Personal Portfolio Website
 - 🔹 Advanced Light Intensity Indicator
 - 🔹 Dual Axis Solar Tracking System for Maximum Power Generation
+- 🔹 Pathfinder
 - 🔹 FixitNow Website
 - 🔹 Smart Garden Robot
 
